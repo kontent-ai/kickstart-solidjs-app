@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.25.1",
-    "@kontent-ai/data-ops": "^2.6.0",
+    "@kontent-ai/data-ops": "^2.6.1",
     "@kontent-ai/model-generator": "^10.0.0",
     "@types/node": "^22.18.6",
     "dprint": "^0.50.2",
